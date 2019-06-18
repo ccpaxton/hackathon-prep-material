@@ -8,6 +8,9 @@ Make sure to [sign up here for IBM Cloud][bluemix_signup_url] **before the hacka
 
 ## Learn the Basics
 
+### Understand how to deploy a Kuberentes based app in a K8s Cluster
+Here's a linke to get your started https://cloud.ibm.com/docs/containers?topic=containers-app [kubes basics]
+
 ### Understand how to deploy an app based on Cloud Foundry
 
 [Cloud Foundry][cloud_foundry] is an open-source platform-as-a-Service (PaaS) that allows you to concentrate on your code without worrying about the underlying infrastructure (like VMs or containers). That allows you to get your apps up and running quickly ... an ideal environment for a hackathon.
