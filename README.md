@@ -9,7 +9,9 @@ Make sure to [sign up here for IBM Cloud][bluemix_signup_url] **before the hacka
 ## Learn the Basics
 
 ### Understand how to deploy a Kuberentes based app in a K8s Cluster
-Here's a linke to get your started [k8s Basics](https://cloud.ibm.com/docs/containers?topic=containers-app) 
+Here's a link to get your started [K8s Basics](https://cloud.ibm.com/docs/containers?topic=containers-app)
+
+You can use [Kubernetes techniques](https://kubernetes.io/docs/setup/)in IBM® Cloud Kubernetes Service to deploy apps in containers and ensure that those apps are up and running at all times. For example, you can perform rolling updates and rollbacks without downtime for your users. Because Kubernetes is an extensible container orchestration platform that does not mandate a specific language or app, you can run various workloads such as stateless, stateful, and data-processing apps that are written in the language of your choice.
 
 ### Understand how to deploy an app based on Cloud Foundry
 
